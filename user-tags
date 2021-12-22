@@ -16,7 +16,7 @@
 
 .chat-3bRxxu>.content-yTz4x3 .messages-3amgkR .containerCozy-jafyvG,
 .container-3FojY8 {
-  overflow: visible;
+  overflow: ;
 }
 
 .avatar-1BDn8e + h2::after {
