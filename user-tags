@@ -2,36 +2,7 @@
 @import "https://monstrousdev.github.io/themes/addons/donator-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/tag-animations.css";
 
-:root {
-  --mc: var(--main-color);
-}
 
-#app-mount .avatar-1BDn8e + h2 {
-  overflow: ;
-}
-
-.avatar-1BDn8e:hover + h2 {
-  opacity: 1;
-}
-
-.chat-3bRxxu>.content-yTz4x3 .messages-3amgkR .containerCozy-jafyvG,
-.container-3FojY8 {
-  overflow: ;
-}
-
-.avatar-1BDn8e + h2::after {
-  color: var(--main-color, var(--mc, rgb(var(--BG-tint-colour, 114, 137, 218))));
-  font-size: 13px;
-  position: absolute;
-  bottom: -23px;
-  left: -29px;
-  border-radius: 2px;
-  cursor: pointer;
-  font-family: BMTicons;
-  pointer-events: none;
-  display: inline-block !important;
-  z-index: 1;
-}
 
 .avatar-1BDn8e:hover + h2::after {
   font-family: "Whitney", "Helvetica";
