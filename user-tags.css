@@ -61,21 +61,6 @@
 
 /* ========= START OF USER TAGS ============== */
 
-  /* before hover */
-.avatar-1BDn8e[src*="107511169366888448"] + h2::after,
-.avatar-1BDn8e[src*="128948605263413248"] + h2::after,
-.avatar-1BDn8e[src*="135824276535115776"] + h2::after,
-.avatar-1BDn8e[src*="443765978132643850"] + h2::after,
-.avatar-1BDn8e[src*="96563253466898432"] + h2::after,
-.avatar-1BDn8e[src*="267803219080642560"] + h2::after,
-.avatar-1BDn8e[src*="194830015353847817"] + h2::after,
-.avatar-1BDn8e[src*="460174770957189155"] + h2::after,
-.avatar-1BDn8e[src*="773960830034378763"] + h2::after{
-  content: "}";
-}
-
-
- 
 
 @keyframes hue-rotate {
   from {
