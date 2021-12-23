@@ -8,8 +8,8 @@
 .sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before,
 .side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before {
     content: "";
-    width: 20px;
-    height: 20px;
+    width: 0px;
+    height: 0px;
     background-size: contain !important;
     background-repeat: no-repeat;
     background-position: center;
